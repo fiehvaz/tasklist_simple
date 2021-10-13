@@ -1,6 +1,7 @@
 # todo_list
 
-A new Flutter project.
+A simple Flutter project.
+just for testing listview and textfield
 
 ## Getting Started
 
